@@ -9,6 +9,6 @@ Repository = "https://github.com/Tr1dae/ComfyUI-Dequality"
 #  Used by Comfy Registry https://comfyregistry.org
 
 [tool.comfy]
-PublisherId = ""
+PublisherId = "tr1dae"
 DisplayName = "ComfyUI-Dequality"
 Icon = ""
