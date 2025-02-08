@@ -1,0 +1,14 @@
+[project]
+name = "dequality"
+description = "Simple addition to add noise to an image. Found on reddit"
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/Tr1dae/ComfyUI-Dequality"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "tr1dae"
+DisplayName = "ComfyUI-Dequality"
+Icon = ""
